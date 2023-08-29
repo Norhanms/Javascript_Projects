@@ -1,3 +1,3 @@
 # Result
 
-!(/mouseAnimation.gif")
+![Cursor Effects](/mouseAnimation.gif")
